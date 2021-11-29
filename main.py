@@ -213,7 +213,7 @@ gui.title("Poli Preguntas")
 # Obtenemos la data del archivo preguntas.json
 # Para evitar que los acentos no se vean afectados
 # debemos configurar la codificacion UTF-8
-with open('preguntas.json', encoding="utf-8") as f:
+with open('preguntas_all.json', encoding="utf-8") as f:
     data = json.load(f)
 
 # Iniciamos las preguntas, opciones y respuestas
