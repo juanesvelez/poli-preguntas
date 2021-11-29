@@ -3,37 +3,25 @@
     "Q1. Fecha cuando ocurrió “El Bogotazo” en Colombia",
     "Q2. Presidente que escribió el himno de Colombia",
     "Q3. Prócer independentista que escribió la carta de Jamaica en 1815",
-    "Q4. Países fronterizos con Colombia",
-    "Q5. Es un continente",
-    "Q6. Cordillera que pasa por Colombia",
-    "Q7. País ubicado sobre la línea del Ecuador",
-    "Q8. Operaciones básicas",
-    "Q9. El resultado de 12 x 12 es igual a",
-    "Q10. ¿Qué es un numero primo?",
-    "Q11. ¿Cuántos colores tiene un arcoíris?",
-    "Q12. ¿Cuál es el planeta más grande del sistema solar?",
-    "Q13. Cantidad de huesos del cuerpo",
-    "Q14. Como se traduce la palabra concurso?",
-    "Q15. A woman carries things in one of these.",
-    "Q16. Como se traduce la palabra congelado?"
+    "Q4. Primera civilización del mundo",
+    "Q5. Detonante de la Primera Guerra Mundial",
+    "Q6. Responsable de la expedición botánica en Colombia",
+    "Q7. Año en que sucedió la revolución francesa",
+    "Q8. Emperador romano asesinado por 23 puñaladas",
+    "Q9. Filosofo de la ilustración que dijo: “el hombre nace libre pero la sociedad lo corrompe”",
+    "Q10. Primer Gobernante de la Unión de Republica Socialista Soviética"
   ],
   "answer": [
     4,
     4,
     3,
-    3,
-    2,
-    2,
     4,
-    3,
-    3,
     2,
-    4,
-    4,
-    3,
     1,
     3,
-    1
+    4,
+    2,
+    3
   ],
   "options": [
 
@@ -52,72 +40,40 @@
       "SIMÓN BOLIVAR",
       "FRANCISCO JOSE DE CALDAS"
     ],
-    ["PANAMÁ",
-      "BRASIL",
-      "TODAS",
-      "PERÚ"
+    ["BABILONIOS",
+      "CHINOS",
+      "EGIPCIOS",
+      "SUMERIOS"
     ],
-    ["RUSSIA",
-      "OCEANÍA",
-      "AUSTRALIA",
-      "JAPÓN"
+    ["INVASIÓN DE ALEMANIA A POLONIA",
+      "HOMICIDIO ARCHIDUQUE DE AUSTRIA-HUNGRIA",
+      "INTERESES ECONOMICOS ENTRE INGLATERRA, ALEMANIA Y RUSIA",
+      "DIFERENCIAS ENTRE EL IMPERIO OTOMANO Y RUSIA"
     ],
-    ["HIMALAYA",
-      "ANDES",
-      "ALPES",
-      "URALES"
+    ["JOSE CELESTINO MUTIS",
+      "AGUSTIN CODAZZI",
+      "CAMILO TORRES",
+      "ANTONIO RICAURTE"
     ],
-    ["CAMERUN",
-      "HOLANDA",
-      "INGLATERRA",
-      "COLOMBIA"
+    ["1778",
+      "1879",
+      "1789",
+      "1876"
     ],
-    ["SUMA",
-      "RESTA",
-      "TODAS",
-      "MULTIPLICACIÓN"
+    ["MARCO AURELIO",
+      "AUGUSTO",
+      "CLAUDIO",
+      "JULIO CESAR"
     ],
-    ["164",
-      "140",
-      "144",
-      "12*2"
+    ["VOLTAIRE",
+      "JEAN JAQUES ROUSSEAU",
+      "MONTESQUIE",
+      "DIDEROT"
     ],
-    ["TERMINAN EN IMPAR",
-      "SOLO SE DIVIDE POR 1 Y POR SÍ MISMO",
-      "ES CAPICUA",
-      "TERMINA EN 0"
-    ],
-    [
-      "6",
-      "8",
-      "4",
-      "7"
-    ],
-    ["VENUS",
-      "SATURNO",
-      "TIERRA",
-      "JUPITER"
-    ],
-    ["203",
-      "100",
-      "206",
-      "106"
-    ],
-    ["CONCERT",
-      "CONTEST",
-      "CRAB",
-      "CALL"
-    ],
-    ["HAT",
-      "SCARF",
-      "HANBANG",
-      "SOCKS"
-    ],
-    ["FROZEN",
-      "FREED",
-      "FEED",
-      "FIRE"
+    ["IOSIF STALIN",
+      "NIKITA JRUSHCHOV",
+      "VLADIMIR LENIN",
+      "MIJAIL GORBACHOV"
     ]
-
   ]
 }

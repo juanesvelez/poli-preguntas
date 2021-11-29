@@ -1,65 +1,49 @@
 {
   "question": [
-    "Q1. Primera civilización del mundo",
-    "Q2. Detonante de la Primera Guerra Mundial",
-    "Q3. Responsable de la expedición botánica en Colombia",
-    "Q4. Año en que sucedió la revolución francesa",
+    "Q1. Países fronterizos con Colombia",
+    "Q2. Es un continente",
+    "Q3. Cordillera que pasa por Colombia",
+    "Q4. País ubicado sobre la línea del Ecuador",
     "Q5. Monte más alto del mundo",
     "Q6. Volcán más grande del mundo",
     "Q7. Cataratas más altas del mundo",
-    "Q8. Teorema de Pitágoras:",
-    "Q9. Es la rama de la matemática que estudia los números y sus operaciones elementales",
-    "Q10. El resultado de (15 x 3) – 8 es igual a",
-    "Q11. ¿Cuántos cuadros o espacios tienen un tablero de ajedrez?",
-    "Q12. Países separados por el Estrecho de Bering",
-    "Q13. Libro sagrado del judaísmo",
-    "Q14. Piloto de avión suicida",
-    "Q15. Many people fly on it to go to a place.",
-    "Q16. Como se traduce la palabra garantia?",
-    "Q17. A person feels like this when they need to sleep after a long day",
-    "Q18. Como se traduce la palabra batch?"
+    "Q8. Naciones enfrentadas por la ciudad de Jerusalén",
+    "Q9. Ciudad soviética destruida por la explosión de un reactor nuclear en 1986",
+    "Q10. Ríos donde surgió la humanidad"
   ],
   "answer": [
-    4,
-    2,
-    1,
-    3,
-    1,
     3,
     2,
-    1,
-    1,
+    2,
     4,
     1,
+    3,
     2,
-    3,
-    3,
-    3,
     1,
-    2,
-    1
+    1,
+    4
   ],
   "options": [
 
-    ["BABILONICOS",
-      "CHINOS",
-      "EGIPCIOS",
-      "SUMERIOS"
+    ["PANAMÁ",
+      "BRASIL",
+      "TODAS",
+      "PERÚ"
     ],
-    ["NVASIÓN DE ALEMANIA A POLONIA",
-      "HOMICIDIO ARCHIDUQUE DE AUSTRIA-HUNGRIA",
-      "INTERESES ECONOMICOS ENTRE INGLATERRA, ALEMANIA Y RUSIA",
-      "DIFERENCIAS ENTRE EL IMPERIO OTOMANO Y RUSIA"
+    ["RUSSIA",
+      "OCEANIA",
+      "AUSTRALIA",
+      "JAPÓN"
     ],
-    ["JOSÉ CELESTINO MUTIS",
-      "AGUSTÍN CODAZZI",
-      "CAMILO TORRES",
-      "ANTONIO RICAURTE"
+    ["HIMALAYA",
+      "ANDES",
+      "ALPES",
+      "URALES"
     ],
-    ["1778",
-      "1879",
-      "1789",
-      "1876"
+    ["CAMERUN",
+      "HOLANDA",
+      "INGLATERRA",
+      "COLOMBIA"
     ],
     ["EVEREST",
       "MAKALU",
@@ -76,61 +60,20 @@
       "IGUAZU",
       "VICTORIA"
     ],
-    ["C2 + C2  =H2 ",
-      "2C + 2C = H2",
-      "C2 + C2  =H",
-      "TODAS"
+    ["PALESTINA E ISRAEL",
+      "IRAN E IRAQ",
+      "AFGANISTAN E ISRAEL",
+      "ARABIA SAUDI Y PALESTINA"
     ],
-    ["ARITMETICA",
-      "ALGEBRA",
-      "GEOMETRÍA",
-      "TRIGONOMETRIA"
+    ["CHERNOBIL",
+      "ODESA",
+      "JARKOV",
+      "KIEV"
     ],
-    ["42",
-      "60",
-      "45",
-      "37"
-    ],
-    [
-      "64",
-      "70",
-      "32",
-      "48"
-    ],
-    ["ESPAÑA Y REINO UNIDO",
-      "USA Y RUSSIA",
-      "COLOMBIA Y PANAMÁ",
-      "ESPAÑA Y MARRUECOS"
-    ],
-    ["BIBLIA",
-      "CORAN",
-      "TORA",
-      "VEDAS"
-    ],
-    ["RONIN",
-      "SAMURAI",
-      "KAMIKAZE",
-      "BERSERKER"
-    ],
-    ["TRAIN",
-      "TRUCK",
-      "PLANE",
-      "BUS"
-    ],
-    ["WARRANTY",
-      "WASHING",
-      "WARRANT",
-      "WALL"
-    ],
-    ["SAD",
-      "TIRED",
-      "HUNGRY",
-      "COLD"
-    ],
-    ["LOTE",
-    "BROTE",
-    "BROCHE",
-    "COCHE"
+    ["GANGES Y DANUBIO",
+      "VOLGA Y OBI",
+      "BRAHMAPUTRA",
+      "TIGRIS Y EUFRATES"
     ]
   ]
 }
