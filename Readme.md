@@ -1,4 +1,4 @@
-# Poli Preguntas - En construcción!
+# Poli Preguntas
 
 #### Juego en version beta puede clonarse, testearse y jugar con ciertas limitantes
 “Poli-Preguntas” es un juego interactivo de preguntas y respuestas de selección múltiple presentadas al jugador en diversas categorías tales como Historia, Geografía, Matemáticas,Cultura General e ingles. 
