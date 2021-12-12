@@ -1,0 +1,96 @@
+{
+  "question_Básico": [
+    "Q1. Operaciones básicas",
+    "Q2. El resultado de 12 x 12 es igual a",
+    "Q3. ¿Qué es un numero primo?"
+  ],
+  "answer_Básico": [
+    3,
+    3,
+    2
+  ],
+  "options_Básico": [
+    ["SUMA",
+      "RESTA",
+      "TODAS",
+      "MULTIPLICACION"
+    ],
+    ["164",
+      "140",
+      "144",
+      "12*2"
+    ],
+    ["TERMINAN EN IMPAR",
+      "SOLO SE DIVIDE POR 1 Y POR SÍ MISMO",
+      "ES CAPICUA",
+      "TERMINA EN 0"
+    ]
+  ],
+  "question_Intermedio": [
+    "Q4. Teorema de Pitágoras",
+    "Q5. Es la rama de la matemática que estudia los números y sus operaciones elementales",
+    "Q6. EL resultado de (15 x 3) – 8 es igual a"
+  ],
+  "answer_Intermedio": [
+    1,
+    1,
+    4
+  ],
+  "options_Intermedio":[
+    ["C^2 + C^2  =  H^2",
+      "2^C + 2^C = H^2",
+      "C^2 + C^2  =  H",
+      "C+2 + C+2 = H+2"
+    ],
+    ["ARITMETICA",
+      "ALGEBRA",
+      "GEOMETRIA",
+      "TRIGONOMETRIA"
+    ],
+    ["42",
+      "60",
+      "45",
+      "37"
+    ]
+  ],
+  "question_Difícil":[
+    "Q7. Poliedro de 20 caras",
+    "Q8. Área de la circunferencia",
+    "Q9. Igualdad matemática entre dos expresiones, con datos desconocidos o incógnitas",
+    "Q10. ¿Cuánto es 145/0?"
+  ],
+  "answer_Difícil": [
+    4,
+    4,
+    2,
+    3
+  ],
+  "options_Difícil": [
+    ["DODECAEDRO",
+      "ISODECAGONO",
+      "OCTAGONO",
+      "ICOSAEDRO"
+    ],
+    ["π * r^2",
+      "2 π r ",
+      "2 π + r^2",
+      "NO APLICA"
+    ],
+    ["FUNCIÓN",
+      "ECUACIÓN",
+      "DERIVADA",
+      "LIMITE"
+    ],
+    [
+      "145",
+      "1",
+      "NO SE PUEDE DIVIDIR ENTRE O",
+      "0"
+    ],
+    ["145",
+      "1",
+      "NO SE PUEDE DIVIDIR ENTRE O",
+      "0"
+    ]
+  ]
+}

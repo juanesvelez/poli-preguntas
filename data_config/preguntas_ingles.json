@@ -1,0 +1,91 @@
+{
+    "question_Básico": [
+      "Q1. ¿Como se traduce la palabra concurso?",
+      "Q2. A woman carries things in one of these",
+      "Q3. ¿Como se traduce la palabra congelado?"
+    ],
+    "answer_Básico": [
+      2,
+      3,
+      1
+    ],
+    "options_Básico": [
+  
+      ["Concert",
+        "Contest",
+        "Crab",
+        "Call"
+      ],
+      ["Hat",
+        "Scarf",
+        "Handbag",
+        "Socks"
+      ],
+      ["Frozen",
+        "Freed",
+        "Feed",
+        "Fire"
+      ]
+    ],
+    "question_Intermedio": [
+      "Q4. Many people fly on it to go to a place",
+      "Q5. ¿Como se traduce la palabra garantia?",
+      "Q6. A person feels like this when they need to sleep after a long day",
+      "Q7. ¿Como se traduce la palabra batch?"
+    ],
+    "answer_Intermedio": [
+      3,
+      1,
+      2,
+      1
+    ],
+    "options_Intermedio": [
+      ["Train",
+        "Truck",
+        "Plane",
+        "Bus"
+      ],
+      ["Warranty",
+        "Washing",
+        "Warrant",
+        "Wall"
+      ],
+      ["Sad",
+        "Tired",
+        "Hungry",
+        "Cold"
+      ],
+      ["Lote",
+        "Brote",
+        "Broche",
+        "Coche"
+      ]
+    ],
+    "question_Difícil": [
+      "Q8. You need this if you want to play tennis",
+      "Q9. ¿Como se traduce la palabra esqui?",
+      "Q10. People can tell the time with it"
+    ],
+    "answer_Difícil": [
+      3,
+      1,
+      1
+    ],
+    "options_Difícil": [
+      ["Competition",
+        "Bike",
+        "Ball",
+        "Prize"
+      ],
+      ["Skiing",
+        "Ceiling",
+        "Sky",
+        "Scratch"
+      ],
+      ["Clock",
+        "Tie",
+        "Suit",
+        "Skirt"
+      ]
+    ]
+}

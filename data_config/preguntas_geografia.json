@@ -1,0 +1,90 @@
+{
+  "question_Básico": [
+    "Q1. Países fronterizos con Colombia",
+    "Q2. Es un continente",
+    "Q3. Cordillera que pasa por Colombia",
+    "Q4. País ubicado sobre la línea del Ecuador"
+  ],
+  "answer_Básico": [
+    3,
+    2,
+    2,
+    4
+  ],
+  "options_Básico": [
+    ["PANAMÁ",
+      "BRASIL",
+      "TODAS",
+      "PERÚ"
+    ],
+    ["RUSSIA",
+      "OCEANIA",
+      "AUSTRALIA",
+      "JAPÓN"
+    ],
+    ["HIMALAYA",
+      "ANDES",
+      "ALPES",
+      "URALES"
+    ],
+    ["CAMERUN",
+      "HOLANDA",
+      "INGLATERRA",
+      "COLOMBIA"
+    ]
+  ],
+  "question_Intermedio": [
+    "Q5. Monte más alto del mundo",
+    "Q6. Volcán más grande del mundo",
+    "Q7. Cataratas más altas del mundo"
+  ],
+  "answer_Intermedio": [
+    1,
+    3,
+    2
+  ],
+  "options_Intermedio": [
+    ["EVEREST",
+      "MAKALU",
+      "K2",
+      "NANGA PARBAT"
+    ],
+    ["KRAKATOA",
+      "VOLCÁN DE FUEGO",
+      "MAUNA LOA",
+      "CALDERA DE YELLOWSTONE"
+    ],
+    ["NIAGARA",
+      "SALTO DEL ANGEL",
+      "IGUAZU",
+      "VICTORIA"
+    ]
+  ],
+  "question_Difícil":[
+    "Q8. Naciones enfrentadas por la ciudad de Jerusalén",
+    "Q9. Ciudad soviética destruida por la explosión de un reactor nuclear en 1986",
+    "Q10. Ríos donde surgió la humanidad"
+  ],
+  "answer_Difícil": [
+    1,
+    1,
+    4
+  ],
+  "options_Difícil": [  
+  ["PALESTINA E ISRAEL",
+    "IRAN E IRAQ",
+    "AFGANISTAN E ISRAEL",
+    "ARABIA SAUDI Y PALESTINA"
+  ],
+  ["CHERNOBIL",
+    "ODESA",
+    "JARKOV",
+    "KIEV"
+  ],
+  ["GANGES Y DANUBIO",
+    "VOLGA Y OBI",
+    "BRAHMAPUTRA",
+    "TIGRIS Y EUFRATES"
+  ]
+]
+}

@@ -1,0 +1,90 @@
+{
+    "question_Básico": [
+      "Q1. ¿Cuántos colores tiene un arcoíris?",
+      "Q2. ¿Cuál es el planeta más grande del sistema solar?",
+      "Q3. Cantidad de huesos del cuerpo"
+    ],
+    "answer_Básico": [
+      4,
+      4,
+      3
+    ],
+    "options_Básico": [
+      ["6",
+        "8",
+        "4",
+        "7"
+      ],
+      ["VENUS",
+        "SATURNO",
+        "TIERRA",
+        "JUPITER"
+      ],
+      ["203",
+        "100",
+        "206",
+        "106"
+      ]
+    ],
+    "question_Intermedio": [
+      "Q4. ¿Cuántos cuadros o espacios tienen un tablero de ajedrez?",
+      "Q5. Países separados por el Estrecho de Bering",
+      "Q6. Libro sagrado del judaísmo",
+      "Q7. Piloto de avión suicida"
+    ],
+    "answer_Intermedio": [
+      1,
+      2,
+      3,
+      3
+    ],
+    "options_Intermedio": [
+      ["64",
+        "70",
+        "32",
+        "48"
+      ],
+      ["ESPAÑA Y REINO UNIDO",
+        "USA Y RUSIA",
+        "COLOMBIA Y PANAMÁ",
+        "ESPAÑA Y MARRUECOS"
+      ],
+      ["BIBLIA",
+        "CORAN",
+        "TORA",
+        "VEDAS"
+      ],
+      ["RONIN",
+        "SAMURAI",
+        "KAMIKAZE",
+        "BERSERKER"
+      ]
+    ],
+    "question_Difícil":[
+      "Q8. Primera criptomoneda",
+      "Q9. Nuevo signo del Zodiaco",
+      "Q10. Una de las 7 maravillas del mundo antiguo"
+    ],
+    "answer_Difícil": [
+      3,
+      2,
+      4
+    ],
+    "options_Difícil": [
+      ["ETHEREUM",
+        "LITECOIN",
+        "BITCOIN",
+        "TOKEN"
+      ],
+      ["PLUTON",
+        "OFIUCO",
+        "ORION",
+        "SIRIO"
+      ],
+      ["COLISEO ROMANO",
+        "TAJ MAHAL",
+        "MACHU PICCHU",
+        "COLOSO DE RODAS"
+      ]
+    ]
+  }
