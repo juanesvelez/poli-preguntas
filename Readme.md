@@ -23,7 +23,7 @@ pip3 install pyside2
 Para iniciar el juego se debe correr de la siguiente manera
 
 ```bash
-python3 main.py
+python3 app.py
 ```
 
 ## Participantes 
